@@ -2,7 +2,7 @@
 body{
     padding: 0;
     margin: 0;
-    Font-type: Poppins,  Actor, Adamina;
+    Font-style: Poppins,  Actor, Adamina;
 }
 .log{
     background-image: url("./assets/images/moving\ 1.png");
@@ -12,13 +12,14 @@ body{
     align-items: left;
     justify-content: left;
 }
- .log nav{
+ .log nav .navs{
     display: flex;
      justify-content: space-between;
-     text-align: center;
+      padding-left: 400px;
 
      
 }
+
 nav ,.navs{
     margin: 20px;
 }
@@ -28,6 +29,18 @@ nav .navs ul li{
     color: white;
 
 }
+  .log nav .navs ul .log1{
+     background-color: #FAFF00;
+     color: black;
+     padding-left: 2px;
+     margin: 5px;
+}
+.log nav .navs ul .log2{
+    background-color: black;
+    color: #FAFF00;
+
+}
+
 .log .mov .rel{
     color:  #FAFF00;
     margin-left: 80px;
@@ -63,4 +76,57 @@ nav .navs ul li{
     background-color: black;
     font-size: 15px;
 
+}
+#sect1 .top h1{
+    margin: 50px;
+    font-size: 30px;
+    
+}
+#sect1 .ler{
+    display: flex;
+    margin-top: 200px;
+    background-color: gray;
+    
+}
+#sect1 .ler .move img{
+
+    height: 300px;
+    width: 250px;
+    margin-top: 250px;
+    position: relative;
+    left: -250px;
+    
+}
+#sect1 .ler .move1 img{
+    height: 300px;
+    width: 250px;
+    margin-top: 250px;
+    position: relative;
+    left: -180px;
+
+
+}
+#sect1 .ler .move2 img{
+    height: 300px;
+    width: 250px;
+    margin-top: 250px;
+    position: relative;
+    left: -150px;
+}
+#sect1 .ler .move p{
+    position: relative;
+    left: -150px;
+    font-size: 15px;
+    
+}
+#sect1 .ler .move1 p{
+    position: relative;
+    left: -100px;
+}
+#sect1 .ler .move2 p{
+    position: relative;
+    left: -80px;
+}
+#sect1{
+    
 }
