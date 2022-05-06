@@ -168,3 +168,48 @@ nav .navs ul li{
     position: relative;
     right: 830px;
 }
+#sect2{
+    margin-top: 100px;
+    background-color: black;
+}
+#sect2 .header .span{
+    margin-left:100px;
+    font-size:20px;
+    color: white;
+
+}
+#sect2 .header .span .tap{
+    color: #FAFF00;
+}
+#sect2 .header .span .top{
+    color: #FAFF00;
+}
+
+#sect2 .header .row {
+        display: flex;
+        margin-left: 50px;
+        margin-top: 80px;
+}
+#sect2 .header .row .row1 img{
+    height: 20px;
+    position: relative;
+    top: 50px;
+}
+#sect2 .header .row .column{
+    margin-left: 150px;
+    
+}
+#sect2 .header .row .column table{
+    border-spacing:15px ;
+    position: relative;
+    top: -30px;
+     color: white;
+     text-align: center;
+     padding-left: 200px;
+    
+}
+#sect2 .header .row .column table tr td{
+        font-size: 12px;
+}
+
+
