@@ -215,5 +215,52 @@ margin-left: 10px;
   } 
   #view .fit3{
       display: flex;
-      margin: 20px;
+      
+  }
+  #sect2{
+      background-color: black;
+  }
+  
+  #sect2 .header{
+      margin-top: 200px;
+      margin-left: 100px;
+    
+      color: white;
+  }
+  #sect2 .header .span{
+      font-size: 25px;
+  }
+  #sect2 .header .tap{
+      color: #ff7200;
+  }
+  #sect2 .header .mrk{
+      margin-left: 600px;
+      background-color: #ff7200;
+  }
+  #sect2 .row{
+      display: flex;
+      margin-top: 50px;
+  }
+  #sect2 .row .row1 img{
+      height: 30px;
+      
+       
+  }
+  #sect2 .column .cont {
+      margin-left: 150px;
+       }
+    
+  #sect2 .column .cont td{
+      font-size: 12px;
+  } 
+  
+  #sect2 .column .cont th{
+      font-size: 15px;
+
+  }  
+  #sect2 .column .cont .cont1{
+      border-collapse: collapse;
+      border-style: hidden;
+
+    
   }
