@@ -29,6 +29,10 @@ nav .navs ul li{
     color: white;
 
 }
+nav .navs ul li a{
+    text-decoration: none;
+    color: white;
+}
   .log nav .navs ul .log1{
      background-color: #FAFF00;
      color: black;
@@ -40,6 +44,7 @@ nav .navs ul li{
     color: #FAFF00;
 
 }
+
 
 .log .mov .rel{
     color:  #FAFF00;
