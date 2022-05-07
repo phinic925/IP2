@@ -18,7 +18,7 @@ nav , .lnk1{
       
 }
 #lnk nav .lnk1 ul .lnk4{
-    background-color: #FAFF00;
+    background-color: #ff7200;
     font-size: 10px;
 
     color:black;
@@ -48,6 +48,7 @@ nav , .lnk1{
 }
 #view{
     margin-top: 100px;
+    background-color: lightgray;
 }
 #view .view1 {
      display:flex;
@@ -181,15 +182,22 @@ margin-left: 10px;
     text-align: left;
     border: 2px solid black;
   }
+  #view .feat{
+      background-color: white;
+      width: 500px;
+      margin-left: 50px;
+  }
   #view .desc{
       margin-top: 150px;
       margin-left: 100px;
       width: 300px;
+      background-color: white;
   }
   #view .col{
       margin-top: 150px;
       margin-left: 100px;
       width: 300px;
+      background-color;
       
   }
   #view .col1{
@@ -217,12 +225,18 @@ margin-left: 10px;
       display: flex;
       
   }
+  #view .fit .fit1 .fit2{
+      width: 100px;
+      position: relative;
+      left: -500px;
+      color: darkgoldenrod;
+  }
   #sect2{
       background-color: black;
   }
   
   #sect2 .header{
-      margin-top: 200px;
+      margin-top: 80px;
       margin-left: 100px;
     
       color: white;
