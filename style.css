@@ -1,0 +1,151 @@
+#lnk{
+
+    background-color: yellow;
+}
+#lnk nav .lnk1{
+    display: flex;
+     justify-content: space-between;
+      padding-left: 450px;
+}
+nav , .lnk1{
+    margin: 20px;
+}
+#lnk nav .lnk1 ul li{
+      display: inline-block;
+      padding: 15px;
+      font-size: 12px;
+      
+}
+#lnk nav .lnk1 ul .lnk4{
+    background-color: #FAFF00;
+    font-size: 10px;
+
+    color: black;
+}
+
+#lnk nav .new{
+
+    display: flex;
+    margin-top: 30px;
+}
+#lnk nav .new .lnk2{
+    padding-left: 50px;
+    margin-left: 150px;
+    
+}
+#lnk nav .new .lnk3{
+    margin-left: 750px;
+    
+}
+#lnk nav .new .lnk2 p{
+    font-size: 8px;
+}
+#lnk nav .new .lnk3 p{
+    font-size: 8px;
+}
+#view{
+    margin-top: 100px;
+}
+#view .view1 {
+     display: flex;
+}
+#view .view1 .view2 img{
+
+      height: 400px;
+      width: 350px;
+      margin-left: 150px;
+      
+}
+#view .view1 .view3{
+    margin-left: 300px;
+
+}
+#view .view1 .view3 .hail {
+    border: 1px solid gray;
+    border-collapse: collapse;
+    outline: none;
+    margin-top: 80px;
+    
+}
+view .view1 .view3 .name{
+     position: relative;
+     margin-top: 100px;
+}
+#view .rect{
+    margin: 10px;
+    display: flex;
+    position: relative;
+    top: 400px;
+    right: 730px;
+
+}
+#view .rect .rect1 img{
+
+    height: 50px;
+    width: 40px;
+    
+}
+#view .rect .rect2 img{
+    height: 50px;
+    width: 40px;
+    margin-left: 8px;
+}
+#view .rect .rect3 img{
+    height: 50px;
+    width: 40px;
+    margin-left: 8px;
+}
+#view .rect .rect4 img{
+    height: 50px;
+    width: 40px;
+    margin-left: 8px;
+}
+#view .rect .rect5 img{
+    height: 50px;
+    width: 40px;
+    margin-left: 8px;
+}
+#view .rect .rect6 img{
+    height: 50px;
+    width: 40px;
+    margin-left: 8px;
+}
+#view .rect .rect7 img{
+    height: 50px;
+    width: 40px;
+    margin-left: 8px;
+}
+#view .tabl{
+    margin-top: 100px;
+    margin-left: 150px;
+}
+#view .desc {
+    margin-top: 100px;
+    margin-left: 100px;
+}
+#view .fit{
+    margin-top: 150px;
+    margin-left:100px ;
+}
+#view .col{
+    margin-top: 100px;
+    margin-left: 100px;
+
+}
+#view .fit .fit1 h1{
+         font-size: 30px;
+}
+#view .fit3{
+    display: flex;
+    
+}
+#view .fit3 .fit5 img{
+    height: 200px;
+    width: 150px;
+    padding: px;
+    
+
+}
+#view .fit3 .fit5 table td{
+    justify-content: space-between;
+}

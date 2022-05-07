@@ -194,141 +194,21 @@ nav .navs ul li{
     height: 20px;
     position: relative;
     top: 50px;
-}
-#sect2 .header .row .column{
-    margin-left: 150px;
     
 }
-#sect2 .header .row .column table{
-    border-spacing:15px ;
-    position: relative;
-    top: -30px;
-     color: white;
-     text-align: center;
-     padding-left: 200px;
+#sect2  .column .cont{
+    font-size: 15px;
+    padding: 15px;
+    color:white;
+    margin-left: 300px;
+    justify-content: space-between;
+
     
-}
-#sect2 .header .row .column table tr td{
-        font-size: 12px;
+
 }
 /*--end--*/_--_
-#lnk{
+#
 
-    background-color: yellow;
-}
-#lnk nav .lnk1{
-    display: flex;
-     justify-content: space-between;
-      padding-left: 450px;
-}
-nav , .lnk1{
-    margin: 20px;
-}
-#lnk nav .lnk1 ul li{
-      display: inline-block;
-      padding: 15px;
-      font-size: 12px;
-      
-}
-#lnk nav .lnk1 ul .lnk4{
-    background-color: #FAFF00;
-    font-size: 10px;
-
-    color: black;
-}
-
-#lnk nav .new{
-
-    display: flex;
-    margin-top: 30px;
-}
-#lnk nav .new .lnk2{
-    padding-left: 50px;
-    margin-left: 150px;
-    
-}
-#lnk nav .new .lnk3{
-    margin-left: 750px;
-    
-}
-#lnk nav .new .lnk2 p{
-    font-size: 8px;
-}
-#lnk nav .new .lnk3 p{
-    font-size: 8px;
-}
-#view{
-    margin-top: 100px;
-}
-#view .view1 {
-     display: flex;
-}
-#view .view1 .view2 img{
-
-      height: 400px;
-      width: 350px;
-      margin-left: 150px;
-      
-}
-#view .view1 .view3{
-    margin-left: 300px;
-
-}
-#view .view1 .view3 table ,tr, th , td{
-    border: 1px solid gray;
-    border-collapse: collapse;
-    outline: none;
-    margin-top: 80px;
-    
-}
-view .view1 .view3 .name{
-     position: relative;
-     margin-top: 100px;
-}
-#view .rect{
-    margin: 10px;
-    display: flex;
-    position: relative;
-    top: 400px;
-    right: 800px;
-
-}
-#view .rect .rect1 img{
-
-    height: 50px;
-    width: 40px;
-    
-}
-#view .rect .rect2 img{
-    height: 50px;
-    width: 40px;
-    margin-left: 8px;
-}
-#view .rect .rect3 img{
-    height: 50px;
-    width: 40px;
-    margin-left: 8px;
-}
-#view .rect .rect4 img{
-    height: 50px;
-    width: 40px;
-    margin-left: 8px;
-}
-#view .rect .rect5 img{
-    height: 50px;
-    width: 40px;
-    margin-left: 8px;
-}
-#view .rect .rect6 img{
-    height: 50px;
-    width: 40px;
-    margin-left: 8px;
-}
-#view .rect .rect7 img{
-    height: 50px;
-    width: 40px;
-    margin-left: 8px;
-}
 
 
 
