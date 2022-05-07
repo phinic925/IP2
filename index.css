@@ -258,5 +258,37 @@ nav , .lnk1{
 #lnk nav .new .lnk3 p{
     font-size: 8px;
 }
+#view{
+    margin-top: 100px;
+}
+#view .view1 {
+     display: flex;
+}
+#view .view1 .view2 img{
+
+      height: 400px;
+      width: 350px;
+      margin-left: 150px;
+      
+}
+#view .view1 .view3{
+    margin-left: 300px;
+
+}
+#view .view1 .view3 table ,tr, th , td{
+    border: 1px solid gray;
+    border-collapse: collapse;
+    outline: none;
+    margin-top: 80px;
+    
+}
+view .view1 .view3 .name{
+     position: relative;
+     margin-top: 100px;
+}
+
+
+
+
 
 
