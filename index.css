@@ -286,6 +286,52 @@ view .view1 .view3 .name{
      position: relative;
      margin-top: 100px;
 }
+#view .rect{
+    margin: 10px;
+    display: flex;
+    position: relative;
+    top: 400px;
+    right: 800px;
+
+}
+#view .rect .rect1 img{
+
+    height: 50px;
+    width: 40px;
+    
+}
+#view .rect .rect2 img{
+    height: 50px;
+    width: 40px;
+    margin-left: 8px;
+}
+#view .rect .rect3 img{
+    height: 50px;
+    width: 40px;
+    margin-left: 8px;
+}
+#view .rect .rect4 img{
+    height: 50px;
+    width: 40px;
+    margin-left: 8px;
+}
+#view .rect .rect5 img{
+    height: 50px;
+    width: 40px;
+    margin-left: 8px;
+}
+#view .rect .rect6 img{
+    height: 50px;
+    width: 40px;
+    margin-left: 8px;
+}
+#view .rect .rect7 img{
+    height: 50px;
+    width: 40px;
+    margin-left: 8px;
+}
+
+
 
 
 
