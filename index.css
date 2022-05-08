@@ -92,9 +92,15 @@ nav .navs ul li a{
     background-color: gray;
 }
 #sect1 .top h1{
-    margin: 50px;
+    margin-left: 100px;
     font-size: 25px    
     
+}
+#sect1 .top .container{
+    width: 80px;
+    position: relative;
+    left: 60px;
+    border: 2px solid gold;
 }
 #sect1 .ler{
     display: flex;
