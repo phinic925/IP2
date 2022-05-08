@@ -33,13 +33,13 @@ nav .navs ul li a{
     text-decoration: none;
     color: white;
 }
-  .log nav .navs ul .log1{
+  .log nav .navs ul a .log1{
      background-color: #FAFF00;
      color: black;
      padding-left: 2px;
      margin: 5px;
 }
-.log nav .navs ul .log2{
+.log nav .navs  .log2{
     background-color: black;
     color: #FAFF00;
 
@@ -75,7 +75,7 @@ nav .navs ul li a{
     margin-top: 80px;
 }
 #sect .right .cut{
-    border: 1px solid gold;
+    border: 2px solid gold;
     width: 80px;
 
 }
