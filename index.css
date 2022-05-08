@@ -26,20 +26,20 @@ nav ,.navs{
 nav .navs ul li{
     display:inline-block;
     padding-left:50px ;
-    color: white;
+    
 
 }
 nav .navs ul li a{
     text-decoration: none;
     color: white;
 }
-  .log nav .navs ul a .log1{
+  .log nav .navs ul  .log1{
      background-color: #FAFF00;
      color: black;
      padding-left: 2px;
      margin: 5px;
 }
-.log nav .navs  .log2{
+.log nav .navs ul .log2{
     background-color: black;
     color: #FAFF00;
 
