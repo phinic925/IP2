@@ -74,6 +74,11 @@ nav .navs ul li a{
 #sect .right{
     margin-top: 80px;
 }
+#sect .right .cut{
+    border: 1px solid gold;
+    width: 80px;
+
+}
 #sect .right h1{
     font-size: 30px;
 }
