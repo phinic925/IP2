@@ -225,11 +225,12 @@ margin-left: 10px;
       display: flex;
       
   }
+  
   #view .fit .fit1 .fit2{
       width: 100px;
       position: relative;
       left: -500px;
-      color: darkgoldenrod;
+      border: 2px solid gold;
   }
   #sect2{
       background-color: black;
