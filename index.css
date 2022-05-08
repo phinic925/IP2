@@ -8,7 +8,7 @@ body{
     background-image: url("./assets/images/moving\ 1.png");
     background-size:cover;
     height: 70vh;
-    opacity: 1;
+    opacity: 0.9;
     align-items: left;
     justify-content: left;
 }
